@@ -1,0 +1,10 @@
+{
+  "name": "formatter",
+  "dependencies": {
+    "espree": "^8.0.0",
+    "node-watch": "^0.7.2"
+  },
+  "scripts": {
+    "start": "node auto_test.js"
+  }
+}
